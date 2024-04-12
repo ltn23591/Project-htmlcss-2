@@ -499,16 +499,15 @@ a {
 }
 
 .feedback .content {
-    position: relative;
     margin-left: auto;
     width: 65%;
 }
 
 .feedback .open-quote {
-    position: absolute;
-    left: -30px;
-    top: -28px;
+    position: relative;
+    right: 28px;
 }
+
 
 .feedback .dots {
     gap: 6px;
