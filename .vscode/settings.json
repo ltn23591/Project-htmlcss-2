@@ -3,7 +3,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features",
-        "editor.fontFamily":"Jetbrains Mono,Mono Space,Consolas, 'Courier New', monospace",
+        "editor.fontFamily":"Jetbrains Mono,Consolas, 'Courier New', monospace",
         "editor.fontLigatures": true
     },
     "[css]": {
